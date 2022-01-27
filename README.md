@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkTRoss
 - 👀 I’m interested in Stuff
-- 🌱 I’m currently learning Life Stuff
+- 🌱 I’m currently learning Tech Stuff
 - 💞️ I’m looking to collaborate on Dev Stuff
 - 📫 How to reach me email me at MarkRoss@YourPCstuff.com
 
